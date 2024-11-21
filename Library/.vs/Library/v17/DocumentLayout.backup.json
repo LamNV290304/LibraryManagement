@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E93355-CDE9-45DB-BF10-8308E6080398}|Library.csproj|c:\\users\\admin\\downloads\\library\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E93355-CDE9-45DB-BF10-8308E6080398}|Library.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E93355-CDE9-45DB-BF10-8308E6080398}|Library.csproj|c:\\users\\admin\\downloads\\library\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1E93355-CDE9-45DB-BF10-8308E6080398}|Library.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E93355-CDE9-45DB-BF10-8308E6080398}|Library.csproj|c:\\users\\admin\\downloads\\library\\managepublicsher.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E93355-CDE9-45DB-BF10-8308E6080398}|Library.csproj|solutionrelative:managepublicsher.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E93355-CDE9-45DB-BF10-8308E6080398}|Library.csproj|c:\\users\\admin\\downloads\\library\\managepublicsher.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1E93355-CDE9-45DB-BF10-8308E6080398}|Library.csproj|solutionrelative:managepublicsher.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E93355-CDE9-45DB-BF10-8308E6080398}|Library.csproj|c:\\users\\admin\\downloads\\library\\searchbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E93355-CDE9-45DB-BF10-8308E6080398}|Library.csproj|solutionrelative:searchbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Library\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Library\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAjwG8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:19:40.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Library\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Library\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T21:19:37.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagePublicsher.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Library\\ManagePublicsher.xaml.cs",
+              "RelativeDocumentMoniker": "ManagePublicsher.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Library\\ManagePublicsher.xaml.cs",
+              "RelativeToolTip": "ManagePublicsher.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:56:53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagePublicsher.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Library\\ManagePublicsher.xaml",
+              "RelativeDocumentMoniker": "ManagePublicsher.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Library\\ManagePublicsher.xaml",
+              "RelativeToolTip": "ManagePublicsher.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T20:53:48.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchBook.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Library\\SearchBook.xaml.cs",
+              "RelativeDocumentMoniker": "SearchBook.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Library\\SearchBook.xaml.cs",
+              "RelativeToolTip": "SearchBook.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:51:52.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

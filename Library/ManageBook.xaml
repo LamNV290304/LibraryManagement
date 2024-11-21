@@ -1,0 +1,73 @@
+﻿<Page x:Class="Library.ManageBook"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Library"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ManageBook"
+      Background="#F5DEB3">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="22*"/>
+            <RowDefinition Height="23*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical" Margin="10,10,30,10" Grid.RowSpan="2">
+            <!-- Filter ComboBoxes with placeholder simulation -->
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <ComboBox x:Name="CategoryComboBox" Width="150" Margin="20,0,10,0" 
+                          SelectionChanged="Filter_Changed" 
+                          Loaded="CategoryComboBox_Loaded"
+                          DisplayMemberPath="Name" 
+                          SelectedValuePath="CategoryId" />
+
+                <ComboBox x:Name="AuthorComboBox" Width="150" Margin="20,0,10,0" 
+                          SelectionChanged="Filter_Changed" 
+                          Loaded="AuthorComboBox_Loaded"
+                          DisplayMemberPath="Name" 
+                          SelectedValuePath="AuthorId" />
+
+                <ComboBox x:Name="YearComboBox" Width="150" Margin="20,0,10,0" 
+                          SelectionChanged="Filter_Changed" 
+                          Loaded="YearComboBox_Loaded"/>
+                <TextBox x:Name="SearchTextBox" Width="200" Margin="20,5,0,10" 
+                         Text="Search by Title" Foreground="Gray" 
+                         GotFocus="SearchTextBox_GotFocus" 
+                         LostFocus="SearchTextBox_LostFocus"
+                         TextChanged="SearchTextBox_TextChanged"/>
+            </StackPanel>
+
+            <!-- Add Book Button -->
+            <Button Content="Add Book" Width="150" Height="40" Background="Green" Foreground="White" 
+                    Margin="20,10,0,10" HorizontalAlignment="Left" 
+                    Click="AddBookButton_Click"/>
+            <!-- Manage Category Button -->
+            <Button Content="Manage Categories" Width="150" Height="40" Background="DarkOrange" Foreground="White" 
+                    Margin="20,10,0,10" HorizontalAlignment="Left" 
+                    Click="ManageCategoryButton_Click"/>
+
+            <!-- DataGrid to display books -->
+            <DataGrid x:Name="BooksDataGrid" AutoGenerateColumns="False" IsReadOnly="True" SelectionChanged="BooksDataGrid_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding BookId}" Width="*"/>
+                    <DataGridTextColumn Header="Title" Binding="{Binding Title}" Width="*"/>
+                    <DataGridTextColumn Header="ISBN" Binding="{Binding Isbn}" Width="*"/>
+                    <DataGridTextColumn Header="Publisher" Binding="{Binding Publisher}" Width="*"/>
+                    <DataGridTextColumn Header="Total copies" Binding="{Binding TotalCopies}" Width="*"/>
+                    <DataGridTextColumn Header="Available copies" Binding="{Binding AvailableCopies}" Width="*"/>
+                    <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="*"/>
+                    <DataGridTextColumn Header="Author" Binding="{Binding AuthorName}" Width="*"/>
+                    <DataGridTextColumn Header="Category" Binding="{Binding CategoryName}" Width="*"/>
+                    <DataGridTextColumn Header="Publication Year" Binding="{Binding PublicationYear}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!-- Pagination Controls -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+                <TextBlock x:Name="PageInfoText" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10,0"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

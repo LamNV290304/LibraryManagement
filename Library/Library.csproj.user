@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ManageAuthor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddLoan.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookInformation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookLoaned.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManageLoan.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagePublicsher.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Register.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SearchBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageAuthor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookInformation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookLoaned.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddLoan.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageCategory.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageLoan.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagePublicsher.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageReservation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Register.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SearchBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UpdateBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewReservation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

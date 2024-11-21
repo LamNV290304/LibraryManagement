@@ -1,0 +1,24 @@
+﻿<Page x:Class="Library.BookLoaned"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library"
+        mc:Ignorable="d"
+        Title="BookLoaned" Height="550" Width="800"
+        Background="#F5DEB3">
+    <Grid>
+        <!-- Border bọc tất cả thành phần -->
+        <Border Background="White" CornerRadius="10" Padding="20" Margin="50,107,50,50">
+            <DataGrid x:Name="dgLoanedBooks" AutoGenerateColumns="False" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" SelectionChanged="dgLoanedBooks_SelectionChanged">
+                <!-- Định nghĩa các cột -->
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Title" Binding="{Binding Title}" Width="*" />
+                    <DataGridTextColumn Header="Author" Binding="{Binding AuthorName}" Width="*"/>
+                    <DataGridTextColumn Header="Category" Binding="{Binding CategoryName}" Width="*"/>
+                    <DataGridTextColumn Header="Due Date" Binding="{Binding DueDate}" Width="*" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+    </Grid>
+</Page>

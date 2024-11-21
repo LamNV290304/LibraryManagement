@@ -1,0 +1,27 @@
+﻿<Window x:Class="Library.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library"
+    
+        mc:Ignorable="d"
+        Title="Login" Height="434" Width="605"
+        Background="#F5DEB3">
+    <Grid Margin="20">
+        <!-- Title Label -->
+        <TextBlock Text="Đăng Nhập" FontSize="24" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="232,119,0,0"/>
+
+        <!-- Username Label and TextBox -->
+        <Label Content="Username:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="84,174,0,0"/>
+        <TextBox x:Name="UsernameTextBox" Width="306" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="155,170,0,0" />
+
+        <!-- Password Label and PasswordBox -->
+        <Label Content="Mật khẩu:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="84,241,0,0"/>
+        <PasswordBox x:Name="PasswordBox" Width="306" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="155,237,0,0"/>
+
+        <!-- Login Button -->
+        <Button Content="Đăng nhập" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="164,0,0,48" Click="LoginButton_Click"/>
+        <Button Content="Đăng kí" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="350,0,0,47" Click="RegisterButton_Click"/>
+    </Grid>
+</Window>

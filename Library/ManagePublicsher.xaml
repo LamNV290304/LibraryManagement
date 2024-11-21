@@ -1,0 +1,91 @@
+﻿<Page x:Class="Library.ManagePublicsher"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Library"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ManagePublicsher"
+      Background="#F5DEB3">
+
+    <Grid>
+        <!-- Define Rows and Columns to control the layout -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" MinHeight="109.96" />
+            <!-- Search row -->
+            <RowDefinition />
+            <!-- DataGrid and other content row takes remaining space -->
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.5*" />
+            <!-- DataGrid column -->
+            <ColumnDefinition Width="1*" />
+            <!-- Detail and buttons column -->
+        </Grid.ColumnDefinitions>
+
+        <!-- Search bar positioned in the first row -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.ColumnSpan="2" Margin="40,40,40,40">
+            <TextBox x:Name="SearchTextBox" Width="200" Margin="5" Text="Search by Name" Foreground="Gray" />
+            <Button x:Name="SearchButton" Content="Search" Click="SearchButton_Click" Margin="5"/>
+        </StackPanel>
+
+        <!-- DataGrid and other content positioned in the second row -->
+        <Grid Grid.Row="1" Grid.ColumnSpan="2" Margin="0,10,0,0" Height="390" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="49*" />
+                <ColumnDefinition Width="47*"/>
+                <!-- DataGrid column -->
+                <ColumnDefinition Width="64*" />
+                <!-- Detail and buttons column -->
+            </Grid.ColumnDefinitions>
+
+            <!-- DataGrid positioned in the first column -->
+            <DataGrid x:Name="PublicsherDataGrid"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  CanUserDeleteRows="False"
+                  CanUserSortColumns="True"
+                  Margin="10,-10,10,63"
+                  GridLinesVisibility="All"
+                  IsReadOnly="True"
+                  SelectionMode="Single"
+                  Grid.Column="0"
+                  Grid.ColumnSpan="2" SelectionChanged="PublicsherDataGrid_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Publicsher Name" Binding="{Binding Name}" Width="*" />
+                    <DataGridTextColumn Header="Address" Binding="{Binding Address}" Width="*" />
+                    <DataGridTextColumn Header="Contact" Binding="{Binding Contact}" Width="*" />
+                    <DataGridTextColumn Header="Id" Binding="{Binding PublisherId}" Width="*" Visibility="Collapsed" />
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!-- Detail View and Action Buttons positioned in the second column -->
+            <StackPanel Grid.Column="2" Margin="10,0,10,20">
+                <!-- Label and TextBox for Return Date -->
+                <StackPanel Orientation="Horizontal" Margin="0,5">
+                    <TextBlock VerticalAlignment="Center" Width="80" Text="Name" />
+                    <TextBox x:Name="NameTextBox" VerticalAlignment="Top" Margin="5" IsReadOnly="True" Text="{Binding Name}" Width="200" />
+                </StackPanel>
+
+                <!-- Label and TextBox for Fine -->
+                <StackPanel Orientation="Horizontal" Margin="0,5">
+                    <TextBlock VerticalAlignment="Center" Width="80" Text="Address" />
+                    <TextBox x:Name="AddressTextBox" VerticalAlignment="Top" Margin="5" IsReadOnly="True" Text="{Binding Address}" Width="201" />
+                </StackPanel>
+
+                <!-- Label and TextBox for Overdue Days -->
+                <StackPanel Orientation="Horizontal" Margin="0,5">
+                    <TextBlock VerticalAlignment="Center" Width="80" Text="Contact" />
+                    <TextBox x:Name="ContactTextBox" VerticalAlignment="Top" Margin="5" IsReadOnly="True" Text="{Binding Contact}" Width="203" />
+                </StackPanel>
+
+                <!-- Add Button positioned below the TextBox fields -->
+                <StackPanel Orientation="Horizontal" Width="164" Margin="0,10">
+                    <Button x:Name="AddButton" Content="Add Publisher" Width="141" Click="AddButton_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

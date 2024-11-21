@@ -1,0 +1,86 @@
+﻿<Window x:Class="Library.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library"
+        mc:Ignorable="d"
+        Title="Register" Height="565" Width="840"
+        Background="#F5DEB3">
+
+    <Grid Margin="30,30,30,0">
+        <!-- Bố trí các hàng và cột -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Tiêu đề đăng ký -->
+        <TextBlock Text="Đăng Ký Tài Khoản" 
+                   FontSize="28" 
+                   FontWeight="Bold" 
+                   HorizontalAlignment="Left"
+                   Grid.ColumnSpan="2"
+                   Margin="247,64,0,315" Grid.Row="1"/>
+
+        <!-- Form đăng ký -->
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Left" Width="350" Height="Auto" Grid.Row="1" Grid.Column="0" Margin="0,107,0,0">
+            <!-- Nhập Họ -->
+            <TextBlock Text="Họ  *:" FontSize="16" Margin="0,10,0,5"/>
+            <TextBox x:Name="txtFirstName" Height="30" FontSize="14" Padding="5" />
+
+            <TextBlock Text="Tên *:" FontSize="16" Margin="0,10,0,5"/>
+            <TextBox x:Name="txtLastName" Height="30" FontSize="14" Padding="5" />
+            <!-- Nhập Email -->
+            <TextBlock Text="Email *:" FontSize="16" Margin="0,10,0,5"/>
+            <TextBox x:Name="txtEmail" Height="30" FontSize="14" Padding="5" />
+
+            <!-- Nhập Số điện thoại -->
+            <TextBlock Text="Số điện thoại *:" FontSize="16" Margin="0,10,0,5"/>
+            <TextBox x:Name="txtPhone" Height="30" FontSize="14" Padding="5"/>
+
+            <!-- Nhập Địa chỉ -->
+            <TextBlock Text="Địa chỉ *:" FontSize="16" Margin="0,10,0,5"/>
+            <TextBox x:Name="txtAddress" Height="30" FontSize="14" Padding="5"/>
+        </StackPanel>
+
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Right" Width="350" Height="Auto" Grid.Row="1" Grid.Column="1" Margin="0,107,0,0">
+            <!-- Username -->
+            <TextBlock Text="Username *: " FontSize="16" Margin="0,10,0,5"/>
+            <TextBox x:Name="txtUsername" Height="30" FontSize="14" Padding="5"/>
+
+
+            <!-- Nhập Mật khẩu -->
+            <TextBlock Text="Mật khẩu *:" FontSize="16" Margin="0,10,0,5"/>
+            <PasswordBox x:Name="txtPassword" Height="30" FontSize="14" Padding="5"/>
+
+            <!-- Nhập lại Mật khẩu -->
+            <TextBlock Text="Nhập lại mật khẩu *:" FontSize="16" Margin="0,10,0,5"/>
+            <PasswordBox x:Name="txtConfirmPassword" Height="30" FontSize="14" Padding="5"/>
+
+            <TextBlock Text="Chọn Giới Tính *:" FontSize="16" Margin="0,10,0,5"/>
+
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <RadioButton x:Name="rbMale" Content="Nam" GroupName="Gender" IsChecked="True" FontSize="14" Padding="5"/>
+                <RadioButton x:Name="rbFemale" Content="Nữ" GroupName="Gender" FontSize="14" Padding="5" Margin="30,0,0,0"/>
+            </StackPanel>
+
+
+        </StackPanel>
+
+        <!-- Nút đăng ký -->
+        <Button Content="Đăng Ký" Width="150" 
+                Background="#4CAF50" 
+                Foreground="White" 
+                FontSize="16" 
+                FontWeight="Bold"
+                Margin="40,400,0,55"
+                HorizontalAlignment="Left"
+                Grid.Row="1" Click="RegisterButton_Click" Grid.Column="1"/>
+    </Grid>
+</Window>

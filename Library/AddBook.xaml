@@ -1,0 +1,61 @@
+﻿<Window x:Class="Library.AddBook"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library"
+        mc:Ignorable="d"
+        Title="Add New Book" Height="526" Width="800"
+        Background="#40E0D0">
+    <Grid Margin="0,10,20,20">
+
+        <!-- Title TextBlock -->
+        <TextBlock Text="Add New Book"
+                   FontSize="24"
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Top"
+                   Margin="0,30,0,20"
+                   Foreground="DarkSlateGray" />
+
+        <Border Background="White" CornerRadius="10" Padding="20" Margin="90,66,65,10">
+            <ComboBox x:Name="cbAuthor" HorizontalAlignment="Left" VerticalAlignment="Top" Width="400" Margin="140,113,0,0"
+                      DisplayMemberPath="Name" SelectedValuePath="AuthorId" />
+        </Border>
+
+        <Label Content="ISBN:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="148,120,0,0"/>
+        <TextBox x:Name="txtISBN" HorizontalAlignment="Left" VerticalAlignment="Top" Width="400" Margin="248,120,0,0"/>
+
+        <!-- Book Title Label and TextBox -->
+        <Label Content="Book Title:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="148,157,0,0"/>
+        <TextBox x:Name="txtTitle" HorizontalAlignment="Left" VerticalAlignment="Top" Width="400" Margin="248,157,0,0"/>
+
+        <!-- Author Label -->
+        <Label Content="Author:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="148,197,0,0"/>
+
+        <!-- Category Label and ComboBox -->
+        <Label Content="Category:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="148,237,0,0"/>
+        <ComboBox x:Name="cbCategory" HorizontalAlignment="Left" VerticalAlignment="Top" Width="400" Margin="248,237,0,0"
+                  DisplayMemberPath="Name" SelectedValuePath="CategoryId" />
+
+        <!-- Publisher Label and ComboBox -->
+        <Label Content="Publisher:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="148,277,0,0"/>
+        <ComboBox x:Name="cbPublisher" HorizontalAlignment="Left" VerticalAlignment="Top" Width="400" Margin="248,277,0,0"
+                  DisplayMemberPath="Name" SelectedValuePath="PublisherId" />
+
+        <!-- Publication Year Label and TextBox -->
+        <Label Content="Publication Year" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="148,317,0,0"/>
+        <TextBox x:Name="txtPublicationYear" HorizontalAlignment="Left" VerticalAlignment="Top" Width="400" Margin="248,321,0,0"/>
+
+        <!-- Price and Additional Fields -->
+        <Label Content="Total copies:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="148,353,0,0"/>
+        <TextBox x:Name="txtTotalCopy" HorizontalAlignment="Left" VerticalAlignment="Top" Width="400" Margin="248,357,0,0"/>
+
+        <Label Content="Price:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="153,389,0,0" RenderTransformOrigin="0.3,0.014"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" VerticalAlignment="Top" Width="400" Margin="248,393,0,0"/>
+
+        <!-- Add Book Button -->
+        <Button Content="Add Book" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="345,434,0,0"
+                Click="AddBook_Click"/>
+    </Grid>
+</Window>

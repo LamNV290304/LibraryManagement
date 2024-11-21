@@ -1,0 +1,329 @@
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\appsettings.json
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Library.exe
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Library.deps.json
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Library.runtimeconfig.json
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Library.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Library.pdb
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Humanizer.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\FU Learning\PRN212\Library\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library.csproj.AssemblyReference.cache
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\AddLoan.g.cs
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\BookInformation.g.cs
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\BookLoaned.g.cs
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Login.g.cs
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\ManageLoan.g.cs
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Register.g.cs
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\SearchBook.g.cs
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\App.g.cs
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library_MarkupCompile.cache
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library_MarkupCompile.lref
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\AddLoan.baml
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\BookInformation.baml
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\BookLoaned.baml
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Login.baml
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\MainWindow.baml
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\ManageLoan.baml
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Register.baml
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\SearchBook.baml
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library.g.resources
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library.AssemblyInfoInputs.cache
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library.AssemblyInfo.cs
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library.csproj.CoreCompileInputs.cache
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library.sourcelink.json
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library.csproj.Up2Date
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library.dll
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\refint\Library.dll
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library.pdb
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\Library.genruntimeconfig.cache
+E:\FU Learning\PRN212\Library\obj\Debug\net8.0-windows\ref\Library.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Library.exe
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Library.deps.json
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Library.runtimeconfig.json
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Library.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Library.pdb
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\admin\Downloads\Library\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\AddLoan.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\BookInformation.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\BookLoaned.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManageLoan.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Register.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\SearchBook.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Library_MarkupCompile.cache
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Library_MarkupCompile.lref
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\AddLoan.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\BookInformation.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\BookLoaned.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Login.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManageLoan.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Register.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\SearchBook.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Library.g.resources
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Library.AssemblyInfo.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Library.csproj.Up2Date
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Library.dll
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\refint\Library.dll
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Library.pdb
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\Library.genruntimeconfig.cache
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ref\Library.dll
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManageAuthor.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManageAuthor.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManagePublicsher.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManagePublicsher.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\AddBook.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManageBook.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManageCategory.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManageReservation.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManageUser.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\UpdateBook.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ViewReservation.g.cs
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\AddBook.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManageBook.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManageCategory.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManageReservation.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ManageUser.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\UpdateBook.baml
+C:\Users\admin\Downloads\Library\obj\Debug\net8.0-windows\ViewReservation.baml
